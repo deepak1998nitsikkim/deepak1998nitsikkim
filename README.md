@@ -30,6 +30,7 @@ I worked as Ex-Intern at Cummins India Limited, Pune from September 2022 to June
 I worked as a Intern at Parahit Technologies Private Limited from December 2020 to March 2021.
 
 --------------EXPERTISE IN--------------------------
+
 C, C++, Python, HTML, CSS, JS, Java, PHP, Django, Machine Learning, Data Structure, Algorithm, 
 
 Dynamic Programming, Bootstrap, SQL, MySQL, Linux, Latex, MS Office, Python Libraries, PostgreSQL, 
